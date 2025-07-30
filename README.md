@@ -1,5 +1,4 @@
 # 🎯 Bulls and Hits Game   
-## Beginner Computer Project with Colored Pegs
 
 ---
 
